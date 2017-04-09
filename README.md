@@ -25,7 +25,7 @@ original graph total weight: 3.7791325287807435E8
 mst graph weight: 13562.310562942272
 tsp-tour weight: 21146.246698003408
 ```
-for a graph with 1700 vertecies.
+for a graph with 1700 vertices.
 
 ***Todos:***
 - the GUI is quite basic. Also, the edges will not point to the vertex positions accurately.
