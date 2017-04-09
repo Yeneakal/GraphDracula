@@ -7,7 +7,7 @@ Implementation of an approximation algorithm that solves the Travelling-Salesman
 - do a depth-first-search (DFS) on the previously generated MST. Doing this will deliver a solution to the TSP-Problem implicitly.
 
 ***How good is the solution?***
-At worst, this implementation will yield a solution twice the cost as the optimal solution at worst case. It is quite fast 
+At worst, this implementation will yield a solution twice the cost as the optimal solution at worst case.
 For more detail have a look at the PDF I wrote (in the repo) that will explain the math behind it. It is in german, though. Translation to english will follow soonish, hopefully.
 
 ***Example***
